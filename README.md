@@ -12,6 +12,7 @@ Java:
 	- For the text based pokemon clone, the game is executed through the GameDriver java file, but you must have
 	all of the other core files within your working directory if you wish to run it, so it would be best to just
 	open the directory as a whole within your favourite IDE
+	
 Python:
 	- I have included several Jupyter notebooks demonstrating various skills in python, if you have trouble 
 	opening them (i.e. you don't already have docker or Ipython installed) you can open and view the files on
@@ -22,4 +23,3 @@ Python:
 overall, thank you for taking the time to view, I will be updating this repo regularly over the next few years with 
 *hopefully* many side projects if I can find the time.
 - Gavin Bosman
-	
